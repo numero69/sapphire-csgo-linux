@@ -1,8 +1,7 @@
 <p align="center">
  
-  ## Project discontinued, feel free to fork.
  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/MADE%20WITH-%E2%99%A5-pink"></a>
-  <a href="https://github.com/cristeigabriel/ruvi-csgo-linux-full/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-pink"></a>
+  <a href="https://github.com/numero69/sapphire-csgo-linux/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-pink"></a>
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@ An open source Counter-Strike: Global Offensive cheat for GNU/Linux.
 
 #
 
-Ruvi is a **GNU/Linux** only CS:GO cheat that aims to be as simple as possible,  
+sapphire is a **GNU/Linux** only CS:GO cheat that aims to be as simple as possible,  
 while keeping the amount of features available at the highest possible level.
 
 #
@@ -56,7 +55,7 @@ Miscellanous:
 
 ### Acknowledgments
 
-Ruvi is available under the [MIT License](https://github.com/cristeigabriel/ruvi-csgo-linux-full/blob/master/LICENSE)
+sapphire is available under the [MIT License](https://github.com/numero69/sapphire-csgo-linux/blob/master/LICENSE)
 
 <img width="64" height="64" src="https://raw.githubusercontent.com/iFloody/fgui/master/resources/fgui_logo.png" alt="fgui logo" align="left">
 
