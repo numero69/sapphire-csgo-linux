@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-An open source Counter-Strike: Global Offensive cheat for GNU/Linux.
+An open source fork of [ruvi](https://github.com/cristeigabriel/ruvi-csgo-linux-full) Counter-Strike: Global Offensive cheat for GNU/Linux.
 </p>
 
 <img width="258" src="./resource/logo.png" alt="ruvi logo" align="left">
